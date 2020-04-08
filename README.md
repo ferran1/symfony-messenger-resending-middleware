@@ -1,6 +1,6 @@
 ## Symfony messenger resending middleware
 Resending middleware to keep dispatching a message in the Symfony MessageHandler until it has been dispatched 
-a number of times. 
+a number of times
 
 ### Usage
 
