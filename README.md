@@ -4,7 +4,7 @@ a number of times
 
 ### Usage
 
-After adding the files to a Symfony project, you'll have to add the middleware to the configuration `(messenger.yaml)`
+Add the middleware to the configuration file of your Symfony project `(messenger.yaml)`
 ```framework:
     messenger:
         # Uncomment this (and the failed transport below) to send failed messages to this transport for later handling.
