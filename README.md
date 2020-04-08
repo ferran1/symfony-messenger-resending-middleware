@@ -21,7 +21,7 @@ Add the LoopCount stamp the first time you dispatch a message
         new LoopCount(0)
     ]);
 
-In the ResendingMiddleware class you can change the resending threshold constant to how many times you would like to resend a message
+In the ResendingMiddleware class change the resending threshold constant to how many times you would like to resend a message
 
 ``  const RESEND_THRESHOLD = 10; ``  
 
